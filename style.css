@@ -11,3 +11,6 @@
 @media(max-width:700px){.hero-balanced{padding:44px 0 20px}.hero-balanced-intro{margin-bottom:27px}.hero-balanced-intro h1{font-size:clamp(38px,10.5vw,59px)}.hero-balanced-intro>p:last-child{font-size:13px}.hero-choices{grid-template-columns:1fr;gap:13px}.hero-choice{height:350px}.choice-copy{padding:24px}.choice-copy h2{font-size:36px}.hero-bottom{font-size:9px;line-height:1.7}}
 
 .bouquets-section{background:#fffdfa}.bouquets-section .gallery figure.wide img{object-position:center 35%}
+
+/* Kontakt: wyraźny adres, wskazówka lokalizacyjna i osobny link do trasy */
+.contact-card .contact-address,.contact-card .contact-hours{display:block;line-height:1.4;font-size:clamp(19px,2vw,26px);overflow-wrap:anywhere}.contact-card .contact-landmark{margin:11px 0 0!important;color:#637367!important;font-size:13px!important;line-height:1.5!important}.contact-card .directions-link{display:inline-flex;align-items:center;gap:9px;margin-top:17px;padding:9px 0;border-bottom:1px solid #a48662;color:#2e4b3b;font:700 13px 'DM Sans',Arial,sans-serif;line-height:1.4;max-width:100%}.contact-card .directions-link:hover{color:#917451}.contact-card>div{min-width:0}
